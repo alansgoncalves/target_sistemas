@@ -1,3 +1,3 @@
-# Teste empresa Traget Sistemas
+# Teste empresa Target Sistemas
 
 Repositório com questões para resolução. 
